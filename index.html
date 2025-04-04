@@ -14,17 +14,17 @@
         <div class="container">
             <nav>
                 <img src="https://media.licdn.com/dms/image/v2/D4E16AQEgLm1jJYk9Uw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1713435659625?e=2147483647&v=beta&t=4cSIlG-ZqkuLiH7O5uycTTd6SyYeu3RqfACJOjet_vg" class="logo">
-                <ul>
+                <ul id="sidemenu">
                     <li><a href="#header"> Home</a> </li>
                     <li><a href="#about"> About</a> </li>
                     <li><a href="#services"> Services</a> </li>
                     <li><a href="#portfolio"> Projects</a> </li>
                     <li><a href="#contact"> Contact</a> </li>
-                    <i class="fa-solid fa-square-xmark"></i>
+                    <i class="fa-solid fa-square-xmark" onclick="closemenu()"></i>
                 
                 </ul>
 
-                <i class="fa-solid fa-bars"></i>
+                <i class="fa-solid fa-bars" onclick="openclick()"></i>
             </nav>
             <div class="header-text">
                 <hi>
@@ -212,7 +212,6 @@
     }
 
 </script>
-    
 <script>
     var sidemenu=document.getElementById("sidemenu");
     function openmenu(){
