@@ -326,7 +326,7 @@ nav ul li a:hover::after{
     width: 100%;
 
 }
-form input, form textarea{
+form input, form textarea{ 
     width: 100%;
     border: 0;
     outline: none;
@@ -357,9 +357,9 @@ form .btn2{
 nav .fa-solid{
     display: none;
 }
-@media only screen and (max-with: 800px){
+@media only screen and (max-width: 600px){
     #header{
-        background-image: (url(kev.JPG));
+        background-image: (url(https://img.freepik.com/premium-photo/abstract-programming-code-icon-laptop-screen-light-blue-low-poly-futuristic-style-technology-background_43780-10083.jpg?w=1380));
 
     }
     .header-text{
@@ -423,6 +423,14 @@ nav .fa-solid{
     }
 
 }
+
+
+
+
+
+
+
+
 
 
 
