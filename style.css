@@ -357,7 +357,7 @@ form .btn2{
 nav .fa-solid{
     display: none;
 }
-@media only screen and (max-with: 300px){
+@media only screen and (max-with: 600px){
     #header{
         background-image: (url(kev.JPG));
 
