@@ -1,15 +1,31 @@
- Portfolio Website
+# Portfolio Website
 
-This is a simple and responsive portfolio website built using **HTML5** and **CSS3**. It showcases personal projects, skills, and contact information in a clean, modern layout.
+This is a my personal portfolio website showcasing my work, skills, and projects. I designed it to give visitors an overview of who I am, what I do, and how to get in touch with me.
 
-Features
+## Demo
 
-- Fully responsive design
-- Clean and minimalistic layout
-- Sections for About Me, Projects, Skills, and Contact
-- Built with only HTML5 and CSS —
+Visit the live website: [https://waigirikamau.github.io/portfolio-website/](https://waigirikamau.github.io/portfolio-website/)
 
- Getting Started
- 
-This is my Portifolio web Live link
-https://waigirikamau.github.io/portfolio-website/
+## Features
+
+- Responsive design for mobile and desktop
+- Smooth scrolling and navigation
+- Project showcase with descriptions and links
+- About Me section with background and skills
+- Contact form and social links
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Framework Libraries used include Bootstrap and React.
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/waigirikamau/portfolio-website.git
